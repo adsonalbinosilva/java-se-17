@@ -1,0 +1,3 @@
+add 4 four
+SUBTRACT 8 2 23233
+divide 60 2
